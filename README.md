@@ -1,8 +1,8 @@
 # Hi I'M SANJEEV 👋
 
 [![HitCount](http://hits.dwyl.com/sanjeev0228/sanjeev0228.svg)](http://hits.dwyl.com/sanjeev0228/sanjeev0228)</br></br>
+<img src="https://user-images.githubusercontent.com/52544636/92110440-54ea1f00-ee08-11ea-9b0f-613489892896.gif" align="center" width="58%" height="40%"/>
 
-![122](https://user-images.githubusercontent.com/52544636/92110440-54ea1f00-ee08-11ea-9b0f-613489892896.gif)
 
 
 - 🔭 I’m currently pursuing my studies {Pre final year}.
