@@ -21,5 +21,13 @@
 [instagram]: https://instagram.com?sanjeev0228
 [linkedin]: https://linkedin.com/in/sanjeev0228<br><br>
 
+<br><br>
+<p > 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/sanjeev0228/count.svg" />
+</p>
+
+<p align="center">Thanks for visiting.🙂</p>
+
 
 
