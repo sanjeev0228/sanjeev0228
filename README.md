@@ -19,7 +19,7 @@
 
 [twitter]: https://twitter.com/sanjeev_0228
 [instagram]: https://instagram.com?sanjeev0228
-[linkedin]: https://linkedin.com/in/sanjeev0228<br><br>
+[linkedin]: https://linkedin.com/in/sanjeev0228
 
 <br><br>
 <p > 
