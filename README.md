@@ -10,8 +10,8 @@
 - 🔭 I’m currently pursuing my studies {Pre final year}.
 - 🌱 I’m currently learning ...ANGULAR.JS AND DJANGO
 - 🤔 I’m looking for help with ...DESGINING
-- 💬 Ask me about ...ANYTHING
--🌏 From New Delhi, India
+- 💬 Ask me about ...ANYTHING</br>
+
 
 
 
@@ -44,7 +44,7 @@
 </br>
 </br>
 </br>
-</br>
+
 # ⚡ Quote ⚡: 
 __*"What I can't create, I don't understand"*__ - R.Feynman  
 </br>
