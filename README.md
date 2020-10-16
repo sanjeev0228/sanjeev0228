@@ -1,4 +1,6 @@
 # Hi I'M SANJEEV 👋
+<img src="
+![5083e0a2a7dcaae07c142e8b87036a27 (1)](https://user-images.githubusercontent.com/52544636/96233640-f773f100-0fb5-11eb-945e-edbca78e5c1f.gif)" >
 
 
 
@@ -32,6 +34,10 @@
 </br>
 </br>
 </br>
+</br>
+</br></br>
+# ⚡ Quote ⚡: 
+__*"What I can't create, I don't understand"*__ - R.Feynman  
 </br>
 </br>
 
