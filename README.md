@@ -1,6 +1,6 @@
 # Hi I'M SANJEEV 👋
 
-![5083e0a2a7dcaae07c142e8b87036a27 (1)](https://user-images.githubusercontent.com/52544636/96233640-f773f100-0fb5-11eb-945e-edbca78e5c1f.gif)"
+
 
 
 
