@@ -38,15 +38,13 @@
 </br>
 </br>
 </br>
-</br>
-</br>
+<
 # ⚡ Quote ⚡: 
 __*"What I can't create, I don't understand"*__ - R.Feynman  
 </br>
 </br>
 </br>
-</br>
-</br>
+
 
 <p>  Visitor count</br>
   <img src="https://profile-counter.glitch.me/sanjeev0228/count.svg" />
