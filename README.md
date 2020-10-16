@@ -11,6 +11,7 @@
 - 🌱 I’m currently learning ...ANGULAR.JS AND DJANGO
 - 🤔 I’m looking for help with ...DESGINING
 - 💬 Ask me about ...ANYTHING
+-🌏 From New Delhi, India
 
 
 
@@ -42,6 +43,8 @@
 </br>
 </br>
 </br>
+</br>
+</br>
 # ⚡ Quote ⚡: 
 __*"What I can't create, I don't understand"*__ - R.Feynman  
 </br>
@@ -54,9 +57,6 @@ __*"What I can't create, I don't understand"*__ - R.Feynman
   <img src="https://profile-counter.glitch.me/sanjeev0228/count.svg" />
 </p>
 </br>
-</br>
-
-
 
 
 <p align="center">Thanks for visiting.🙂</p>
