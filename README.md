@@ -7,8 +7,8 @@
 
 
 
-- 🔭 I’m currently pursuing my studies {Pre final year}.
-- 🌱 I’m currently learning ...ANGULAR.JS AND DJANGO
+- 🔭 I’m currently pursuing my studies Final Year.
+- 🌱 I’m currently learning ...Kotlin
 - 🤔 I’m looking for help with ...DESGINING
 - 💬 Ask me about ...ANYTHING</br>
 
