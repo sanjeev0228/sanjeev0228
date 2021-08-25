@@ -12,7 +12,7 @@
 
 - 🌱 &nbsp; Learning about Android Development, Systems Design.
 
-- ✍️ &nbsp; Pursuing Web Development as hobbies/side hustles.
+
 - 🤔 I’m looking for help with  Android Development
 - 💬 Ask me about ...Web Development</br>
 
