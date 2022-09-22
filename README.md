@@ -10,10 +10,10 @@
 
 - 🎓 &nbsp; Studying Computer Science and Engineering at ABES Engineering Collage
 
-- 🌱 &nbsp; Learning about Android Development, Systems Design.
+- 🌱 &nbsp; Learning about Java ,SpringBoot ,Hibernate ,Mysql,MangoDB,SpringMVC, Systems Design.
 
 
-- 🤔 I’m looking for help with  Android Development
+- 🤔 I’m looking for help with  Java Fullstack
 - 💬 Ask me about ...Web Development</br>
 
 
@@ -24,7 +24,7 @@
 
 - 💻 &nbsp; Java | C++ | C | MySQL
 
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | ReactJS
+- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | AngularJS
 
 <!--
 
