@@ -22,7 +22,7 @@
 
 
 
-- 💻 &nbsp; Java | C++ | C | MySQL
+- 💻 &nbsp; Java | C++ | C | MySQL 
 
 - 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | AngularJS
 
@@ -48,20 +48,18 @@
 
 <br/><br/>
 
-### Github Stats & Most Used Languages
-<img align="left" alt="Harsh Github Stats" src="https://github-readme-stats.vercel.app/api?username=sanjeev0228&show_icons=true&hide_border=true&theme=radical&private=true&count_private=true/" />
+## My Statistics
 
 <br/>
-<br/>
+<p align="left">
+  <a href="https://abhigyantrips.dev/">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=sanjeev0228&show_icons=true&theme=gruvbox&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=sanjeev0228&theme=gruvbox&hide_border=true" />
+  </a>
+</p>
+<br>
 
-<br/>
-
-<img src="https://github.com/nirala69/nirala69/blob/master/70804f7e25b11f29db904f2fa7b4cd9d.gif" width="350" align='right'>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjeev0228&layout=compact)](https://github.com/sanjeev0228/github-readme-stats)/github-readme-stats)
-
-<br><br>
-
+[![Abhigyan Trips' Activity Graph](https://activity-graph.herokuapp.com/graph?username=sanjeev0228&custom_title=Sanjeev%20Trips's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://abhigyantrips.dev)
 
 
 <hr>
